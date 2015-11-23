@@ -1,3 +1,1 @@
-# iOS-Swift-Troubleshooting-UI-To-Code-Edward
-
-![simulator screen shot nov 3 2015 11 35 11 am](https://cloud.githubusercontent.com/assets/414554/10900867/36d959e4-8220-11e5-9ff6-bea8f8edbd48.png)
+![2015-11-10 9 26 03](https://cloud.githubusercontent.com/assets/14995658/11338575/d80f4a2a-922f-11e5-9ff4-9b1d0cce49d9.png)
